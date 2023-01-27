@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine war live updates: Russia launches 'massive' strikes on Ukraine after Western allies agree to send tanks - CNBC",
+      "description": "After the U.S. and Germany's historic decision to supply battle tanks to Ukraine, talk has already turned to the possible supply of other firepower.",
+      "url": "https://www.cnbc.com/2023/01/26/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184275-1674718323010-gettyimages-1243956276-AFP_32LE4FG.jpeg?v=1674719359&w=1920&h=1080",
+      "publishedAt": "2023-01-26T14:32:00Z",
+      "content": "The dust has barely settled after the U.S. and Germany's momentous decision on Wednesday but talk has already turned to the possible supply of other weaponry to Ukraine, specifically combat aircraft.… [+1192 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "US Senators Hold A Press Conference On Debt Ceiling | US News Live | English News | News18 LIVE - CNN-News18",
+      "description": "US Senators Hold A Press Conference On Debt Ceiling | US News Live | English News | News18 LIVERepublican senators spoke with reporters about negotiations on...",
+      "url": "https://www.youtube.com/watch?v=dXwMq7tLO6g",
+      "urlToImage": "https://i.ytimg.com/vi/dXwMq7tLO6g/maxresdefault_live.jpg",
+      "publishedAt": "2023-01-26T13:56:42Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jeff Cox",
+      "title": "U.S. GDP rose 2.9% in the fourth quarter, more than expected even as recession fears loom - CNBC",
+      "description": "Gross domestic product was expected to rise 2.8% at an annualized pace in the fourth quarter, according to Dow Jones estimates.",
+      "url": "https://www.cnbc.com/2023/01/26/gdp-q4-2022-us-gdp-rose-2point9percent-in-the-fourth-quarter-more-than-expected-even-as-recession-fears-loom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107087168-1657577778878-cummins.jpg?v=1674739847&w=1920&h=1080",
+      "publishedAt": "2023-01-26T13:30:47Z",
+      "content": "The U.S. economy finished 2022 in solid shape even as questions persist over whether growth will turn negative in the year ahead.\r\nFourth-quarter gross domestic product, the sum of all goods and serv… [+4024 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cosmopolitan.com" },
+      "author": "Mehera  Bonner",
+      "title": "Salma Hayek Wore a Sheer Bikini Coverup Over Underwear to the Premiere of 'Magic Mike's Last Dance' - Yahoo Life",
+      "description": "Find yourself a dress takes you from the beach to the red carpet.",
+      "url": "https://www.cosmopolitan.com/entertainment/celebs/a42669099/salma-hayek-bikini-coverup-dress-magic-mike/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2023-01-26-at-6-49-02-am-1674733755.png?crop=1xw:0.8964194373401535xh;center,top&resize=1200:*",
+      "publishedAt": "2023-01-26T12:33:00Z",
+      "content": "Salma Hayek stepped out for the premiere of Magic Mike's Last Dance in Miami Beach, last night, and we need to discuss her instantly iconic dress. What we have here is a fully see through netted gown… [+1198 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Nika Shakhnazarova",
+      "title": "Britney Spears 'annoyed' after wellness check over deleted Instagram: report - Page Six",
+      "description": "The “Toxic” singer sparked concern Wednesday after she deactivated her Instagram account without warning — prompting diehard fans to call the police.",
+      "url": "https://pagesix.com/2023/01/26/britney-spears-annoyed-after-wellness-check-over-deleted-instagram-report/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/01/britney-spears-48.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2023-01-26T12:09:00Z",
+      "content": "Britney Spears was reportedly left “annoyed” that a cop was forced to perform a wellness check on her after worried fans dialed 911.\r\nThe “Toxic” singer sparked concern Wednesday after she deactivate… [+2725 chars]"
+    }
+  ]
+}
